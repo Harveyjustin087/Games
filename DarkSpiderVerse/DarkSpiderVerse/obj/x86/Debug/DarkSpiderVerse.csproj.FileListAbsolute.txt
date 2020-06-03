@@ -1,0 +1,122 @@
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\obj\x86\Debug\DarkSpiderVerse.csprojAssemblyReference.cache
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\obj\x86\Debug\DarkSpiderVerse.csproj.CoreCompileInputs.cache
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\DarkSpiderVerse.exe
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\DarkSpiderVerse.pdb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\MonoGame.Framework.dll
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\SharpDX.dll
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\SharpDX.XInput.dll
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\MonoGame.Framework.xml
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\SharpDX.xml
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\SharpDX.XInput.xml
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\obj\x86\Debug\DarkSpiderVerse.csproj.CopyComplete
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\obj\x86\Debug\DarkSpiderVerse.exe
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\obj\x86\Debug\DarkSpiderVerse.pdb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Fonts\RegularFont.xnb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Fonts\HilightFont.xnb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\title.xnb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Music\ultimate.wma
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Music\ultimate.xnb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\levelOne.xnb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\darkuniverse.xnb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\rhino.xnb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Music\RhinoVoice.xnb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\spideyUP.xnb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\spiderMation.xnb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\swing.xnb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\imagex.xnb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\swinger.xnb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\goblin.xnb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Music\gobbyAudio.xnb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\rhinoRun.xnb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\gogobby.xnb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\lostlife.xnb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\fullLife.xnb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\endScreen.xnb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\blackcats.xnb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\vulture.xnb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Music\epiccat.xnb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\spiderLives.xnb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\carnageStab.xnb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Music\CarnageVoice.xnb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\bc.xnb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\helpimage.xnb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\aboutimage.xnb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\highScore.xnb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\mysterioxx.xnb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Music\wearevenom.xnb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\wearevenom.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\title.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\levelOne.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\darkuniverse.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\rhino.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\spideyUP.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\spiderMation.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\swing.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\imagex.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\swinger.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\goblin.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\rhinoRun.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\gogobby.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\lostlife.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\fullLife.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\endScreen.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\blackcats.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\vulture.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\spiderLives.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\carnageStab.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\bc.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\helpimage.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\aboutimage.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\highScore.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\mysterioxx.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Images\wearevenom.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Music\ultimate.wma
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Music\ultimate.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Music\RhinoVoice.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Music\gobbyAudio.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Music\epiccat.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Music\CarnageVoice.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Music\wearevenom.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Fonts\RegularFont.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\Content\Fonts\HilightFont.xnb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\DarkSpiderVerse.exe
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\DarkSpiderVerse.pdb
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\MonoGame.Framework.dll
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\SharpDX.dll
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\SharpDX.XInput.dll
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\MonoGame.Framework.xml
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\SharpDX.xml
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\SharpDX.XInput.xml
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\obj\x86\Debug\DarkSpiderVerse.csprojAssemblyReference.cache
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\obj\x86\Debug\DarkSpiderVerse.csproj.CoreCompileInputs.cache
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\obj\x86\Debug\DarkSpiderVerse.csproj.CopyComplete
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\obj\x86\Debug\DarkSpiderVerse.exe
+G:\CONESTOGA19-20\Game Programming\JHarveyFinalProject\Source Code\DarkSpiderVerse\DarkSpiderVerse\obj\x86\Debug\DarkSpiderVerse.pdb
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\DarkSpiderVerse.exe.manifest
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\bin\Windows\x86\Debug\DarkSpiderVerse.application
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\obj\x86\Debug\DarkSpiderVerse.exe.manifest
+G:\CONESTOGA19-20\Game Programming\DarkSpiderVerse\DarkSpiderVerse\obj\x86\Debug\DarkSpiderVerse.application

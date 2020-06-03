@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>G:/CONESTOGA19-20/Game Programming/DarkSpiderVerse/DarkSpiderVerse/Content/Fonts/RegularFont.spritefont</File>
+    <File>G:/CONESTOGA19-20/Game Programming/DarkSpiderVerse/DarkSpiderVerse/Content/Fonts/HilightFont.spritefont</File>
+    <File>G:/CONESTOGA19-20/Game Programming/DarkSpiderVerse/DarkSpiderVerse/Content/Images/title.jpg</File>
+    <File>G:/CONESTOGA19-20/Game Programming/DarkSpiderVerse/DarkSpiderVerse/Content/Music/ultimate.mp3</File>
+    <File>G:/CONESTOGA19-20/Game Programming/DarkSpiderVerse/DarkSpiderVerse/Content/Images/levelOne.png</File>
+    <File>G:/CONESTOGA19-20/Game Programming/DarkSpiderVerse/DarkSpiderVerse/Content/Images/darkuniverse.png</File>
+    <File>G:/CONESTOGA19-20/Game Programming/DarkSpiderVerse/DarkSpiderVerse/Content/Images/rhino.png</File>
+    <File>G:/CONESTOGA19-20/Game Programming/DarkSpiderVerse/DarkSpiderVerse/Content/Music/RhinoVoice.wav</File>
+    <File>G:/CONESTOGA19-20/Game Programming/DarkSpiderVerse/DarkSpiderVerse/Content/Images/spideyUP.png</File>
+    <File>G:/CONESTOGA19-20/Game Programming/DarkSpiderVerse/DarkSpiderVerse/Content/Images/spiderMation.png</File>
+    <File>G:/CONESTOGA19-20/Game Programming/DarkSpiderVerse/DarkSpiderVerse/Content/Images/swing.png</File>
+    <File>G:/CONESTOGA19-20/Game Programming/DarkSpiderVerse/DarkSpiderVerse/Content/Images/imagex.png</File>
+    <File>G:/CONESTOGA19-20/Game Programming/DarkSpiderVerse/DarkSpiderVerse/Content/Images/swinger.png</File>
+    <File>G:/CONESTOGA19-20/Game Programming/DarkSpiderVerse/DarkSpiderVerse/Content/Music/gobbyAudio.wav</File>
+    <File>G:/CONESTOGA19-20/Game Programming/DarkSpiderVerse/DarkSpiderVerse/Content/Images/goblin.png</File>
+    <File>G:/CONESTOGA19-20/Game Programming/DarkSpiderVerse/DarkSpiderVerse/Content/Images/rhinoRun.png</File>
+    <File>G:/CONESTOGA19-20/Game Programming/DarkSpiderVerse/DarkSpiderVerse/Content/Images/gogobby.png</File>
+    <File>G:/CONESTOGA19-20/Game Programming/DarkSpiderVerse/DarkSpiderVerse/Content/Images/lostlife.png</File>
+    <File>G:/CONESTOGA19-20/Game Programming/DarkSpiderVerse/DarkSpiderVerse/Content/Images/fullLife.png</File>
+    <File>G:/CONESTOGA19-20/Game Programming/DarkSpiderVerse/DarkSpiderVerse/Content/Images/blackcats.png</File>
+    <File>G:/CONESTOGA19-20/Game Programming/DarkSpiderVerse/DarkSpiderVerse/Content/Images/vulture.png</File>
+    <File>G:/CONESTOGA19-20/Game Programming/DarkSpiderVerse/DarkSpiderVerse/Content/Music/epiccat.wav</File>
+    <File>G:/CONESTOGA19-20/Game Programming/DarkSpiderVerse/DarkSpiderVerse/Content/Images/spiderLives.png</File>
+    <File>G:/CONESTOGA19-20/Game Programming/DarkSpiderVerse/DarkSpiderVerse/Content/Images/carnageStab.png</File>
+    <File>G:/CONESTOGA19-20/Game Programming/DarkSpiderVerse/DarkSpiderVerse/Content/Music/CarnageVoice.wav</File>
+    <File>G:/CONESTOGA19-20/Game Programming/DarkSpiderVerse/DarkSpiderVerse/Content/Images/bc.png</File>
+    <File>G:/CONESTOGA19-20/Game Programming/DarkSpiderVerse/DarkSpiderVerse/Content/Images/endScreen.png</File>
+    <File>G:/CONESTOGA19-20/Game Programming/DarkSpiderVerse/DarkSpiderVerse/Content/Images/aboutimage.png</File>
+    <File>G:/CONESTOGA19-20/Game Programming/DarkSpiderVerse/DarkSpiderVerse/Content/Images/highScore.png</File>
+    <File>G:/CONESTOGA19-20/Game Programming/DarkSpiderVerse/DarkSpiderVerse/Content/Images/mysterioxx.png</File>
+    <File>G:/CONESTOGA19-20/Game Programming/DarkSpiderVerse/DarkSpiderVerse/Content/Images/wearevenom.png</File>
+    <File>G:/CONESTOGA19-20/Game Programming/DarkSpiderVerse/DarkSpiderVerse/Content/Music/wearevenom.wav</File>
+    <File>G:/CONESTOGA19-20/Game Programming/DarkSpiderVerse/DarkSpiderVerse/Content/Images/helpimage.png</File>
+  </SourceFiles>
+</SourceFileCollection>
